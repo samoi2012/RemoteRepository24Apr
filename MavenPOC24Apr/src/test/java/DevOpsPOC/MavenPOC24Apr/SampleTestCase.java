@@ -28,6 +28,7 @@ public class SampleTestCase {
 	  browser.quit();
 	  
 	  System.out.println("Test Completed");
+	  System.out.println("Testing automatic upload creation");
 	  
 	  
 	  
